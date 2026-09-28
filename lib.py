@@ -442,6 +442,17 @@ def footer_html():
 </footer>"""
 
 
+def verification_tags():
+    """Search Console 等の所有権確認タグ。data/site.json に値を入れると出力される。"""
+    v = SITE.get("verification") or {}
+    out = []
+    if v.get("google"):
+        out.append(f'<meta name="google-site-verification" content="{esc(v["google"])}">')
+    if v.get("bing"):
+        out.append(f'<meta name="msvalidate.01" content="{esc(v["bing"])}">')
+    return "\n".join(out)
+
+
 def layout(title, desc, body, path="/", schema=None, active="", crumbs=None, css_extra="", js=""):
     full_title = title if title == SITE["name"] else f"{title}｜{SITE['name']}"
     nodes = [
@@ -480,6 +491,7 @@ def layout(title, desc, body, path="/", schema=None, active="", crumbs=None, css
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="{U('/assets/style.css')}">
+{verification_tags()}
 <link rel="alternate" type="application/rss+xml" title="{esc(SITE['name'])}" href="{U('/feed.xml')}">
 {css_extra}
 {jsonld(*nodes)}

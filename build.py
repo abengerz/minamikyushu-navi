@@ -1355,6 +1355,12 @@ def build_meta():
 
     write("/robots.txt", "User-agent: *\nAllow: /\n\nSitemap: " + BASE_URL + U("/sitemap.xml") + "\n")
 
+    # Search Console の所有権確認ファイル。metaタグと併用しておくと、
+    # どちらか一方が消えても確認状態が外れない。
+    vfile = (SITE.get("verification") or {}).get("google_file")
+    if vfile:
+        write("/" + vfile, "google-site-verification: " + vfile + "\n")
+
     items = "".join(
         f"<item><title>{esc(a['title'])}</title>"
         f"<link>{abs_url('/' + a['category'] + '/' + a['slug'] + '/')}</link>"
