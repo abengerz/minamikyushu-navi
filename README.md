@@ -1,5 +1,8 @@
 # みなみ九州 経営ナビ
 
+**公開URL**: https://abengerz.github.io/minamikyushu-navi/
+**リポジトリ**: https://github.com/abengerz/minamikyushu-navi （public）
+
 宮崎県・鹿児島県の中小企業・個人事業主向けの情報サイト。
 `miyazaki-jigyosya.com`（南九州ビジネス支援ナビ）と同じ土俵で、SEO で上を取りにいく。
 流入の受け皿は **AI導入支援 / 補助金申請支援 / 経理BPO** の3サービス。
@@ -16,11 +19,15 @@ python3 fetch.py --dry-run    # 一次ソースから数字を取り直す（書
 python3 fetch.py              # 差分があれば data/prefs.json を更新
 ```
 
-GitHub Pages のプロジェクトページに置く場合:
+GitHub Pages のプロジェクトページに置く場合（本番はこの設定）:
 
 ```
-MKN_BASE=/minamikyushu-navi MKN_BASE_URL=https://xxx.github.io python3 build.py
+MKN_BASE=/minamikyushu-navi MKN_BASE_URL=https://abengerz.github.io python3 build.py
 ```
+
+本番の値は GitHub のリポジトリ変数（Settings → Secrets and variables → Actions → Variables）に
+`MKN_BASE` / `MKN_BASE_URL` として入れてある。`.github/workflows/deploy.yml` が
+main への push と毎日 JST 6:00 に走り、`fetch.py` で一次ソースを取り直してから公開する。
 
 `MKN_BASE_URL` は**オリジンだけ**。パスは `MKN_BASE` に書く。
 
