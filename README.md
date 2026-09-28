@@ -115,6 +115,24 @@ site/          生成物
 「当社は税理士法人ではなく、個別の税務相談は受けない」旨を明記している。
 記事は一般的な制度の説明にとどめること。
 
+## Search Console
+
+- **プロパティ**: URLプレフィックス `https://abengerz.github.io/minamikyushu-navi/`
+  （Googleアカウント miyaguni@avengerz-japan.com）
+- **所有権の確認**: HTMLファイル方式で確認済み。metaタグも併用している。
+  どちらも `data/site.json` の `verification` に入っていて、`build.py` が両方出力する。
+  **確認ファイルを消すと所有権が外れる**ので、`verification.google_file` は触らないこと。
+- **サイトマップ**: `sitemap.xml` を送信済み。
+
+サイトマップの状態が「取得できませんでした」のまま数日続く場合は、次を確認する。
+
+```
+curl -sI https://abengerz.github.io/minamikyushu-navi/sitemap.xml   # 200 / application/xml
+curl -s  https://abengerz.github.io/robots.txt                       # 404なら制限なしでOK
+```
+
+いずれも正常なら、Google側の反映待ち。再送信で再取得が走る。
+
 ## 公開前に必ずやること
 
 1. **住所と電話番号を `org.offices` / `org.tel` に入れる**（現状は県・市までしか入っていない）。
