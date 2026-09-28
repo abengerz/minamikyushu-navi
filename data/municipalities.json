@@ -1,0 +1,554 @@
+[
+ {
+  "pref": "宮崎県",
+  "name": "宮崎市",
+  "slug": "miyazaki",
+  "code": "452017",
+  "site": "https://www.city.miyazaki.miyazaki.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "都城市",
+  "slug": "miyakonojo",
+  "code": "452025",
+  "site": "https://www.city.miyakonojo.miyazaki.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "延岡市",
+  "slug": "nobeoka",
+  "code": "452033",
+  "site": "https://www.city.nobeoka.miyazaki.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "日南市",
+  "slug": "nichinan",
+  "code": "452041",
+  "site": "https://www.city.nichinan.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "小林市",
+  "slug": "kobayashi",
+  "code": "452050",
+  "site": "https://www.city.kobayashi.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "日向市",
+  "slug": "hyuga",
+  "code": "452068",
+  "site": "https://www.hyugacity.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "串間市",
+  "slug": "kushima",
+  "code": "452076",
+  "site": "https://www.city.kushima.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "西都市",
+  "slug": "saito",
+  "code": "452084",
+  "site": "https://www.city.saito.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "えびの市",
+  "slug": "ebino",
+  "code": "452092",
+  "site": "https://www.city.ebino.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "三股町",
+  "slug": "mimata",
+  "code": "453412",
+  "site": "https://www.town.mimata.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "高原町",
+  "slug": "takaharu",
+  "code": "453617",
+  "site": "https://www.town.takaharu.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "国富町",
+  "slug": "kunitomi",
+  "code": "453820",
+  "site": "https://www.town.kunitomi.miyazaki.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "綾町",
+  "slug": "aya",
+  "code": "453838",
+  "site": "https://www.town.aya.miyazaki.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "高鍋町",
+  "slug": "takanabe",
+  "code": "454010",
+  "site": "https://www.town.takanabe.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "新富町",
+  "slug": "shintomi",
+  "code": "454028",
+  "site": "https://www.town.shintomi.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "西米良村",
+  "slug": "nishimera",
+  "code": "454036",
+  "site": "https://www.vill.nishimera.lg.jp/",
+  "kind": "村"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "木城町",
+  "slug": "kijo",
+  "code": "454044",
+  "site": "https://www.town.kijo.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "川南町",
+  "slug": "kawaminami",
+  "code": "454052",
+  "site": "https://www.town.kawaminami.miyazaki.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "都農町",
+  "slug": "tsuno",
+  "code": "454061",
+  "site": "https://www.town.tsuno.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "門川町",
+  "slug": "kadogawa",
+  "code": "454214",
+  "site": "https://www.town.kadogawa.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "諸塚村",
+  "slug": "morotsuka",
+  "code": "454290",
+  "site": "https://www.vill.morotsuka.miyazaki.jp/",
+  "kind": "村"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "椎葉村",
+  "slug": "shiiba",
+  "code": "454303",
+  "site": "https://www.vill.shiiba.miyazaki.jp/",
+  "kind": "村"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "美郷町",
+  "slug": "misato",
+  "code": "454311",
+  "site": "https://www.town.miyazaki-misato.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "高千穂町",
+  "slug": "takachiho",
+  "code": "454419",
+  "site": "https://www.town-takachiho.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "日之影町",
+  "slug": "hinokage",
+  "code": "454427",
+  "site": "https://www.town.hinokage.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "宮崎県",
+  "name": "五ヶ瀬町",
+  "slug": "gokase",
+  "code": "454435",
+  "site": "https://www.town.gokase.miyazaki.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "鹿児島市",
+  "slug": "kagoshima",
+  "code": "462012",
+  "site": "https://www.city.kagoshima.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "鹿屋市",
+  "slug": "kanoya",
+  "code": "462039",
+  "site": "https://www.city.kanoya.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "枕崎市",
+  "slug": "makurazaki",
+  "code": "462047",
+  "site": "https://www.city.makurazaki.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "阿久根市",
+  "slug": "akune",
+  "code": "462063",
+  "site": "https://www.city.akune.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "出水市",
+  "slug": "izumi",
+  "code": "462080",
+  "site": "https://www.city.kagoshima-izumi.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "指宿市",
+  "slug": "ibusuki",
+  "code": "462101",
+  "site": "https://www.city.ibusuki.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "西之表市",
+  "slug": "nishinoomote",
+  "code": "462136",
+  "site": "https://www.city.nishinoomote.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "垂水市",
+  "slug": "tarumizu",
+  "code": "462144",
+  "site": "https://www.city.tarumizu.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "薩摩川内市",
+  "slug": "satsumasendai",
+  "code": "462152",
+  "site": "https://www.city.satsumasendai.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "日置市",
+  "slug": "hioki",
+  "code": "462161",
+  "site": "https://www.city.hioki.kagoshima.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "曽於市",
+  "slug": "soo",
+  "code": "462179",
+  "site": "https://www.city.soo.kagoshima.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "霧島市",
+  "slug": "kirishima",
+  "code": "462187",
+  "site": "https://www.city-kirishima.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "いちき串木野市",
+  "slug": "ichikikushikino",
+  "code": "462195",
+  "site": "https://www.city.ichikikushikino.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "南さつま市",
+  "slug": "minamisatsuma",
+  "code": "462209",
+  "site": "https://www.city.minamisatsuma.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "志布志市",
+  "slug": "shibushi",
+  "code": "462217",
+  "site": "https://www.city.shibushi.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "奄美市",
+  "slug": "amami",
+  "code": "462225",
+  "site": "https://www.city.amami.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "南九州市",
+  "slug": "minamikyushu",
+  "code": "462233",
+  "site": "https://www.city.minamikyushu.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "伊佐市",
+  "slug": "isa",
+  "code": "462241",
+  "site": "https://www.city.isa.kagoshima.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "姶良市",
+  "slug": "aira",
+  "code": "462250",
+  "site": "https://www.city.aira.lg.jp/",
+  "kind": "市"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "三島村",
+  "slug": "mishima",
+  "code": "463035",
+  "site": "http://mishimamura.com/",
+  "kind": "村"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "十島村",
+  "slug": "toshima",
+  "code": "463043",
+  "site": "http://www.tokara.jp/",
+  "kind": "村"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "さつま町",
+  "slug": "satsuma",
+  "code": "463922",
+  "site": "https://www.satsuma-net.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "長島町",
+  "slug": "nagashima",
+  "code": "464040",
+  "site": "https://www.town.nagashima.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "湧水町",
+  "slug": "yusui",
+  "code": "464520",
+  "site": "https://www.town.yusui.kagoshima.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "大崎町",
+  "slug": "osaki",
+  "code": "464686",
+  "site": "https://www.town.kagoshima-osaki.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "東串良町",
+  "slug": "higashikushira",
+  "code": "464821",
+  "site": "https://www.higashikushira.com/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "錦江町",
+  "slug": "kinko",
+  "code": "464902",
+  "site": "https://www.town.kinko.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "南大隅町",
+  "slug": "minamiosumi",
+  "code": "464911",
+  "site": "https://www.town.minamiosumi.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "肝付町",
+  "slug": "kimotsuki",
+  "code": "464929",
+  "site": "https://www.kimotsuki-town.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "中種子町",
+  "slug": "nakatane",
+  "code": "465011",
+  "site": "https://town.nakatane.kagoshima.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "南種子町",
+  "slug": "minamitane",
+  "code": "465020",
+  "site": "http://www.town.minamitane.kagoshima.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "屋久島町",
+  "slug": "yakushima",
+  "code": "465054",
+  "site": "https://www.town.yakushima.kagoshima.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "大和村",
+  "slug": "yamato",
+  "code": "465232",
+  "site": "https://www.vill.yamato.lg.jp/",
+  "kind": "村"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "宇検村",
+  "slug": "uken",
+  "code": "465241",
+  "site": "https://www.uken.net/",
+  "kind": "村"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "瀬戸内町",
+  "slug": "setouchi",
+  "code": "465259",
+  "site": "https://www.town.setouchi.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "龍郷町",
+  "slug": "tatsugo",
+  "code": "465275",
+  "site": "https://www.town.tatsugo.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "喜界町",
+  "slug": "kikai",
+  "code": "465291",
+  "site": "https://www.town.kikai.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "徳之島町",
+  "slug": "tokunoshima",
+  "code": "465305",
+  "site": "https://www.tokunoshima-town.org/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "天城町",
+  "slug": "amagi",
+  "code": "465313",
+  "site": "https://www.town.amagi.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "伊仙町",
+  "slug": "isen",
+  "code": "465321",
+  "site": "https://www.town.isen.kagoshima.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "和泊町",
+  "slug": "wadomari",
+  "code": "465330",
+  "site": "https://www.town.wadomari.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "知名町",
+  "slug": "china",
+  "code": "465348",
+  "site": "https://www.town.china.lg.jp/",
+  "kind": "町"
+ },
+ {
+  "pref": "鹿児島県",
+  "name": "与論町",
+  "slug": "yoron",
+  "code": "465356",
+  "site": "https://www.yoron.jp/",
+  "kind": "町"
+ }
+]

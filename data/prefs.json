@@ -1,0 +1,191 @@
+{
+ "common": {
+  "fiscal_year": "令和8年度",
+  "kaigo_rate": 1.62,
+  "kosodate_rate": 0.23,
+  "kosei_nenkin_rate": 18.3,
+  "kenpo_applies_from": "令和8年3月分（4月納付分）",
+  "kenpo_source": "https://www.kyoukaikenpo.or.jp/g7/cat330/sb3130/r08/",
+  "kenpo_source_name": "全国健康保険協会「令和8年度の協会けんぽの保険料率」",
+  "mw_national_source": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/"
+ },
+ "prefs": {
+  "宮崎県": {
+   "slug": "miyazaki",
+   "kana": "みやざきけん",
+   "min_wage": {
+    "current": {
+     "amount": 1023,
+     "effective": "2025-11-16",
+     "wareki": "令和7年11月16日"
+    },
+    "next": {
+     "amount": 1085,
+     "effective": "2026-10-24",
+     "wareki": "令和8年10月24日",
+     "diff": 62
+    },
+    "source": "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/jirei_toukei/chingin_kanairoudou/tingin.html",
+    "source_name": "宮崎労働局「宮崎県の最低賃金」",
+    "history": [
+     [
+      "H26",
+      677
+     ],
+     [
+      "H27",
+      693
+     ],
+     [
+      "H28",
+      714
+     ],
+     [
+      "H29",
+      737
+     ],
+     [
+      "H30",
+      762
+     ],
+     [
+      "R1",
+      790
+     ],
+     [
+      "R2",
+      793
+     ],
+     [
+      "R3",
+      821
+     ],
+     [
+      "R4",
+      853
+     ],
+     [
+      "R5",
+      897
+     ],
+     [
+      "R6",
+      952
+     ],
+     [
+      "R7",
+      1023
+     ]
+    ],
+    "tokutei_note": "令和8年度の改定なし。部分肉・冷凍肉／電子部品・電気機械／各種商品小売業／自動車(新車)小売業の4業種はいずれも県最低賃金と同額が適用される。",
+    "tokutei": [
+     "部分肉・冷凍肉、肉加工品、処理牛乳・乳飲料、乳製品製造業",
+     "電子部品・デバイス・電子回路、電気機械器具、情報通信機械器具製造業",
+     "各種商品小売業",
+     "自動車(新車)小売業"
+    ]
+   },
+   "kenpo": {
+    "r7": 10.09,
+    "r8": 9.77,
+    "rank_note": "全国で見ても低い水準"
+   },
+   "bureau": {
+    "name": "宮崎労働局",
+    "url": "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/"
+   },
+   "yorozu": {
+    "name": "宮崎県よろず支援拠点",
+    "url": "https://miyazaki-yorozu.jp/"
+   }
+  },
+  "鹿児島県": {
+   "slug": "kagoshima",
+   "kana": "かごしまけん",
+   "min_wage": {
+    "current": {
+     "amount": 1026,
+     "effective": "2025-11-01",
+     "wareki": "令和7年11月1日"
+    },
+    "next": {
+     "amount": 1090,
+     "effective": "2026-10-25",
+     "wareki": "令和8年10月25日",
+     "diff": 64
+    },
+    "source": "https://jsite.mhlw.go.jp/kagoshima-roudoukyoku/hourei_seido_tetsuzuki/kane/saitin01.html",
+    "source_name": "鹿児島労働局「鹿児島県の最低賃金について」",
+    "history": [
+     [
+      "H26",
+      678
+     ],
+     [
+      "H27",
+      694
+     ],
+     [
+      "H28",
+      715
+     ],
+     [
+      "H29",
+      737
+     ],
+     [
+      "H30",
+      761
+     ],
+     [
+      "R1",
+      790
+     ],
+     [
+      "R2",
+      793
+     ],
+     [
+      "R3",
+      821
+     ],
+     [
+      "R4",
+      853
+     ],
+     [
+      "R5",
+      897
+     ],
+     [
+      "R6",
+      953
+     ],
+     [
+      "R7",
+      1026
+     ]
+    ],
+    "tokutei_note": "令和8年度の改定なし。自動車(新車)小売業／電子部品・電気機械／百貨店・総合スーパーはいずれも県最低賃金と同額が適用される。",
+    "tokutei": [
+     "自動車(新車)小売業",
+     "電子部品・デバイス・電子回路、電気機械器具、情報通信機械器具製造業",
+     "百貨店、総合スーパー"
+    ]
+   },
+   "kenpo": {
+    "r7": 10.31,
+    "r8": 10.13,
+    "rank_note": "九州では福岡とほぼ同水準"
+   },
+   "bureau": {
+    "name": "鹿児島労働局",
+    "url": "https://jsite.mhlw.go.jp/kagoshima-roudoukyoku/"
+   },
+   "yorozu": {
+    "name": "鹿児島県よろず支援拠点",
+    "url": "https://kagoshima-yorozu.jp/"
+   }
+  }
+ }
+}
